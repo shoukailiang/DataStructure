@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure List/SqList.cpp List/SqList.h)
+add_executable(DataStructure  LinkList/LinkList.cpp LinkList/LinkList.h)
