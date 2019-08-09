@@ -5,7 +5,7 @@
 #ifndef DATASTRUCTURE_DULINKLIST_H
 #define DATASTRUCTURE_DULINKLIST_H
 
-typedef int ElemType;
+
 typedef struct DuNode {
   ElemType data;
   struct DuNode *prior;

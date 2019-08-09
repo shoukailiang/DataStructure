@@ -2,7 +2,7 @@
 // Created by liang on 2019/8/9.
 //
 
-
+typedef int ElemType;
 #include <iostream>
 #include "DuLinkList.h"
 

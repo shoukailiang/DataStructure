@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/List/LinkList/LinkList.h" charset="GBK" />
     <file url="file://$PROJECT_DIR$/List/SqList/SqList.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/List/SqList/SqList.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack/SqStack/SqStack.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack/SqStack/SqStack.h" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

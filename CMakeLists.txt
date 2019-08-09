@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  List/DuLinkList/DuLinkList.cpp List/DuLinkList/DuLinkList.h)
+add_executable(DataStructure   Stack/SqStack/SqStack.cpp Stack/SqStack/SqStack.h)
