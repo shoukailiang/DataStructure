@@ -14,6 +14,11 @@
     - [顺序栈](https://github.com/shoukailiang/DataStructure/blob/master/Stack/SqStack/SqStack.h)
 - 链式表示
     - [链式栈](https://github.com/shoukailiang/DataStructure/blob/master/Stack/LinkStack/LinkStack.h)
+# 队列
+- 顺序表示
+    - [顺序队列](https://github.com/shoukailiang/DataStructure/blob/master/Queue/SqQueue/SqQueue.h)
+- 链式表示
+    - [链式队列](https://github.com/shoukailiang/DataStructure/blob/master/Queue/LinkQueue/LinkQueue.h)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```

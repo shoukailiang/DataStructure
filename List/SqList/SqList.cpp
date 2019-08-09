@@ -4,9 +4,11 @@
 
 typedef int ElemType;    // 顺序表中元素类型为int
 #include <iostream>
+#include <iomanip>  // 该文件包含malloc()、realloc()和free()等函数
+using namespace std;
 #include "SqList.h"
 
-using namespace std;
+
 
 // 测试
 int main() {

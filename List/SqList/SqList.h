@@ -8,10 +8,7 @@
 #define LIST_INIT_SIZE  100               // 顺序表(默认的)的初始分配最大容量
 #define LIST_INCREMENT  10                // (默认的)增补空间量
 
-#include <iostream>
-#include <iomanip>  // 该文件包含malloc()、realloc()和free()等函数
 
-using namespace std;
 /**
  *数组静态分配,有缺点
  */

@@ -6,9 +6,7 @@
 #define DATASTRUCTURE_LINKLIST_H
 
 
-#include <iostream>
 
-using namespace std;
 
 /**
  * 头结点不存放数据，设置空的头结点，是为了操作统一（一：插入时既有前驱又有后继，二：空表和非空表的统一）

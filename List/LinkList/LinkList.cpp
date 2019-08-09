@@ -6,9 +6,11 @@ typedef int ElemType;
 
 #include <iomanip>
 #include <iostream>
+using namespace std;
+
+
 #include "LinkList.h"
 
-using namespace std;
 // ≤‚ ‘
 
 int main() {
