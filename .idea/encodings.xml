@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/LinkList/LinkList.cpp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/LinkList/LinkList.h" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/List/SqList.cpp" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/List/SqList.h" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/DuLinkList/DuLinkList.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/DuLinkList/DuLinkList.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/LinkList/LinkList.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/LinkList/LinkList.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/SqList/SqList.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/List/SqList/SqList.h" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
