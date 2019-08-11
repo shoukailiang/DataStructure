@@ -13,7 +13,7 @@
  *数组静态分配,有缺点
  */
 typedef struct {
-  ElemType elem[50];
+  ElemType elem[LIST_INIT_SIZE];
   int length;
   int listsize;
   int incrementsize;

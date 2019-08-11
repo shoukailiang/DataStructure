@@ -19,6 +19,8 @@
     - [顺序队列](https://github.com/shoukailiang/DataStructure/blob/master/Queue/SqQueue/SqQueue.h)
 - 链式表示
     - [链式队列](https://github.com/shoukailiang/DataStructure/blob/master/Queue/LinkQueue/LinkQueue.h)
+# 树
+- [二分搜索树](https://github.com/shoukailiang/DataStructure/blob/master/Tree/BinarySearchTree/BinarySearchTree.h)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```

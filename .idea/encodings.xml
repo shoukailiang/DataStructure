@@ -15,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/Stack/LinkStack/LinkStack.h" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Stack/SqStack/SqStack.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Stack/SqStack/SqStack.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tree/BinarySearchTree/BinarySearchTree.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tree/BinarySearchTree/BinarySearchTree.h" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
