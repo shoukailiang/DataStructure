@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure     Tree/BinarySearchTree/BinarySearchTree.cpp Tree/BinarySearchTree/BinarySearchTree.h)
+add_executable(DataStructure )
