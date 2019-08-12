@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure )
+add_executable(DataStructure  Graph/DenseGraph/DenseGraph.cpp Graph/DenseGraph/DenseGraph.h)
