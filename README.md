@@ -21,6 +21,8 @@
     - [顺序队列](https://github.com/shoukailiang/DataStructure/blob/dev/Queue/SqQueue/SqQueue.h)
 - 链式表示
     - [链式队列](https://github.com/shoukailiang/DataStructure/blob/dev/Queue/LinkQueue/LinkQueue.h)
+#数组和广义表
+
 # 树
 - [二分搜索树](https://github.com/shoukailiang/DataStructure/blob/dev/Tree/BinarySearchTree/BinarySearchTree.h)
 # 图
@@ -30,6 +32,7 @@
 - [选择排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/SelectionSort/SelectionSort.cpp)
 - [冒泡排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/BubbleSort/BubbleSort.cpp)
 - [插入排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/InsertionSort/InsertionSort.cpp)
+- [希尔排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/ShellSort/ShellSort.cpp)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```
