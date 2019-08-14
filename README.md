@@ -14,8 +14,11 @@
     - [顺序栈](https://github.com/shoukailiang/DataStructure/blob/dev/Stack/SqStack/SqStack.h)
 - 链式表示
     - [链式栈](https://github.com/shoukailiang/DataStructure/blob/dev/Stack/LinkStack/LinkStack.h)
-- 栈的应用（递归）
-- 栈的应用（四则运算表达式求值）
+- 栈的应用
+    - 递归
+    - [判断是否是回文](https://github.com/shoukailiang/DataStructure/blob/dev/Stack/example/Palindrome.cpp)
+    - [进制转换](https://github.com/shoukailiang/DataStructure/blob/dev/Stack/example/Convert.cpp)
+    - 四则运算表达式求值
 # 队列
 - 顺序表示
     - [顺序队列](https://github.com/shoukailiang/DataStructure/blob/dev/Queue/SqQueue/SqQueue.h)

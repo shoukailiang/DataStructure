@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  Sort/HeapSort/HeapSort2.cpp)
+add_executable(DataStructure  Stack/example/Convert.cpp)
