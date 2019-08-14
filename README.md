@@ -34,6 +34,7 @@
 - [插入排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/InsertionSort/InsertionSort.cpp)
 - [希尔排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/ShellSort/ShellSort.cpp)
 - [归并排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/MergeSort/MergeSort.cpp)
+- [快速排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/QuickSort/QuickSort.cpp)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```
