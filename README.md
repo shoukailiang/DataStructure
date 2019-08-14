@@ -24,7 +24,7 @@
 # 数组和广义表
 # 堆
 - [最大堆](https://github.com/shoukailiang/DataStructure/blob/dev/Heap/MaxHeap/MaxHeap.h)
-- [堆排序]()
+- [堆排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/HeapSort/HeapSort2.cpp)
 # 树
 - [二分搜索树](https://github.com/shoukailiang/DataStructure/blob/dev/Tree/BinarySearchTree/BinarySearchTree.h)
 # 图
@@ -37,6 +37,7 @@
 - [希尔排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/ShellSort/ShellSort.cpp)
 - [归并排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/MergeSort/MergeSort.cpp)
 - [快速排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/QuickSort/QuickSort.cpp)
+- [堆排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/HeapSort/HeapSort2.cpp)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```
