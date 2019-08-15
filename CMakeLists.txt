@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  Stack/example/Convert.cpp)
+add_executable(DataStructure   Heap/IndexMinHeap/IndexMinHeap.cpp Heap/IndexMinHeap/IndexMinHeap.h)

@@ -27,7 +27,10 @@
 # 数组和广义表
 # 堆
 - [最大堆](https://github.com/shoukailiang/DataStructure/blob/dev/Heap/MaxHeap/MaxHeap.h)
+- [最小堆](https://github.com/shoukailiang/DataStructure/blob/dev/Heap/MinHeap/MinHeap.h)
 - [堆排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/HeapSort/HeapSort2.cpp)
+- [最大索引堆](https://github.com/shoukailiang/DataStructure/blob/dev/Heap/IndexMaxHeap/IndexMaxHeap.h)
+- [最小索引堆](https://github.com/shoukailiang/DataStructure/blob/dev/Heap/IndexMinHeap/IndexMinHeap.h)
 # 树
 - [二分搜索树](https://github.com/shoukailiang/DataStructure/blob/dev/Tree/BinarySearchTree/BinarySearchTree.h)
 # 图
