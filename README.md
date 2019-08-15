@@ -44,6 +44,10 @@
 - [归并排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/MergeSort/MergeSort.cpp)
 - [快速排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/QuickSort/QuickSort.cpp)
 - [堆排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/HeapSort/HeapSort2.cpp)
+# 并查集
+- [基于size并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/QuickUnion/UnionFind.h)
+- [基于rank并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/UnionFindByRank/UnionFind.h)
+- [路径压缩](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/PathCompression/UnionFind.h)
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
 ```
