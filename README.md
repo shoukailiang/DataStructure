@@ -36,6 +36,9 @@
 # 图
 - [邻接表](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/SparseGraph/SparseGraph.h)
 - [邻接矩阵](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DenseGraph/DenseGraph.h)
+# 查找
+- [二分查找](https://github.com/shoukailiang/DataStructure/blob/dev/Search/BinarySearch/BinarySearch.cpp)
+- [插值查找](https://github.com/shoukailiang/DataStructure/blob/dev/Search/InsertValueSearch/InsertValueSearch.cpp)
 # 排序算法
 - [选择排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/SelectionSort/SelectionSort.cpp)
 - [冒泡排序](https://github.com/shoukailiang/DataStructure/blob/dev/Sort/BubbleSort/BubbleSort.cpp)

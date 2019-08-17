@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure Sort/RadixSort/RadixSort.cpp)
+add_executable(DataStructure Search/InsertValueSearch/InsertValueSearch.cpp)
