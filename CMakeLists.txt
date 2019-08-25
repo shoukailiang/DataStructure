@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  Divide-and-Conquer/Hanoitower.cpp)
+add_executable(DataStructure Graph/ReadGraph/ReadGraph.cpp Graph/ReadGraph/ReadGraph.h)

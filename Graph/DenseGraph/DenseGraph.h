@@ -16,7 +16,8 @@ using namespace std;
 
 class DenseGraph {
 private:
-  int n, m;        // n点数，m边数
+  int n, m;        // n顶
+  // 点数，m边数
   bool directed;   // 是否有方向
   vector<vector<bool>> g;  // 二维矩阵，true代表有这个边，false代表没
 public:

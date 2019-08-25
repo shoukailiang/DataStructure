@@ -23,7 +23,7 @@ public:
     this->m = 0;
     this->directed = directed;
     for (int i = 0; i < n; i++)
-      g.push_back(vector<int>());
+      g.push_back(vector<int>());   // 邻接表也可以用链表实现，这里用向量
   }
 
   ~SparseGraph() {
@@ -40,6 +40,7 @@ public:
     assert(w >= 0 && w < n);
 
     g[v].push_back(w);
+    // v==w就形成了子环边
     if (v != w && !directed) {
       g[w].push_back(v);
     }
