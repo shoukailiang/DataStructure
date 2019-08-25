@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure Search/InsertValueSearch/InsertValueSearch.cpp)
+add_executable(DataStructure  Divide-and-Conquer/Hanoitower.cpp)
