@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure Graph/ReadGraph/ReadGraph.cpp Graph/ReadGraph/ReadGraph.h)
+add_executable(DataStructure Graph/DFS-and-Components/Components.cpp Graph/DFS-and-Components/Components.h)

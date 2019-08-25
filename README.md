@@ -36,7 +36,7 @@
 ## 图
 - [邻接表](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/SparseGraph/SparseGraph.h)
 - [邻接矩阵](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DenseGraph/DenseGraph.h)
-
+- [连通分量和深度优先遍历](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DFS-and-Components/Components.h)
 ## 并查集
 - [基于size并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/QuickUnion/UnionFind.h)
 - [基于rank并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/UnionFindByRank/UnionFind.h)
