@@ -37,6 +37,8 @@
 - [邻接表](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/SparseGraph/SparseGraph.h)
 - [邻接矩阵](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DenseGraph/DenseGraph.h)
 - [连通分量和深度优先遍历](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DFS-and-Components/Components.h)
+- [深度优先遍历实现路径](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/BFS-and-Shortest-Path/Path.h)
+- [最短路径和广度优先遍历](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/BFS-and-Shortest-Path/ShortestPath.h)
 ## 并查集
 - [基于size并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/QuickUnion/UnionFind.h)
 - [基于rank并查集](https://github.com/shoukailiang/DataStructure/blob/dev/UnionFind/UnionFindByRank/UnionFind.h)

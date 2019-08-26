@@ -24,7 +24,7 @@ int main() {
 
   // TestG2.txt
   string filename2 = "C:\\Users\\liang\\OneDrive\\code\\Data Structure and Algorithms\\DataStructure\\Graph\\testG2.txt";
-  SparseGraph g2 = SparseGraph(6, false);
+  SparseGraph g2 = SparseGraph(7, false);
   ReadGraph<SparseGraph> readGraph2(g2, filename2);
   Component<SparseGraph> component2(g2);
   cout << "TestG2.txt, Component Count: " << component2.count() << endl;

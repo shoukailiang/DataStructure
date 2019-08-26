@@ -26,7 +26,7 @@ private:
   void dfs(int v) {
 
     visited[v] = true;
-    id[v] = ccount;
+    id[v] = ccount;// 当只有一个连通分量的时候，所有都会是0，第二个连通分量都是1
     typename Graph::adjIterator adj(G, v);
     for (int i = adj.begin(); !adj.end(); i = adj.next()) {
       if (!visited[i])
