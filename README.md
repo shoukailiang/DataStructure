@@ -59,6 +59,8 @@
 - [插值查找](https://github.com/shoukailiang/DataStructure/blob/dev/Search/InsertValueSearch/InsertValueSearch.cpp)
 ## 分治算法
 - [汉诺塔](https://github.com/shoukailiang/DataStructure/blob/dev/Divide-and-Conquer/Hanoitower.cpp)
+## 动态规划
+- [背包问题](https://github.com/shoukailiang/DataStructure/blob/dev/Dynamic-Programming/KnapsackProblem.cpp)
 
 # 注意事项
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
