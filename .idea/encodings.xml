@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Divide-and-Conquer/Hanoitower.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Dynamic-Programming/KnapsackProblem.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/KMP/KMP.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/KMP/test.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/List/DuLinkList/DuLinkList.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/List/DuLinkList/DuLinkList.h" charset="GBK" />
     <file url="file://$PROJECT_DIR$/List/LinkList/LinkList.cpp" charset="GBK" />

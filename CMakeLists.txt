@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  KMP/ViolenceMatch.cpp)
+add_executable(DataStructure KMP/KMP.cpp)
