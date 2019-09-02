@@ -36,6 +36,8 @@
 ## 图
 - [邻接表](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/SparseGraph/SparseGraph.h)
 - [邻接矩阵](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DenseGraph/DenseGraph.h)
+- [带权图的邻接表](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/Weighted-Graph/SparseGraph.h)
+- [带权图的邻接矩阵](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/Weighted-Graph/DenseGraph.h)
 - [连通分量和深度优先遍历](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/DFS-and-Components/Components.h)
 - [深度优先遍历实现路径](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/BFS-and-Shortest-Path/Path.h)
 - [最短路径和广度优先遍历](https://github.com/shoukailiang/DataStructure/blob/dev/Graph/BFS-and-Shortest-Path/ShortestPath.h)
@@ -74,3 +76,4 @@ add_executable(DataStructure LinkList/LinkList.cpp LinkList/LinkList.h)
 - 啊哈，算法
 - 大话数据结构
 - https://github.com/liuyubobobo
+- 尚硅谷-韩顺平图解Java数据结构和算法
