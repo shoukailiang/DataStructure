@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure    Queue/LinkQueue/LinkQueue.cpp Queue/LinkQueue/LinkQueue.h)
+add_executable(DataStructure   )
