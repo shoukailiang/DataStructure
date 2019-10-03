@@ -24,6 +24,10 @@
 - [二分搜索树](https://github.com/shoukailiang/DataStructure/blob/zju/Tree/BinarySearchTree/BinarySearchTree.h)
 ## 堆
 - [最大堆](https://github.com/shoukailiang/DataStructure/blob/zju/Heap/MaxHeap/MaxHeap.h)
+- [最小堆](https://github.com/shoukailiang/DataStructure/blob/zju/Heap/MinHeap/MinHeap.h)
+- [哈夫曼树](https://github.com/shoukailiang/DataStructure/blob/zju/Heap/HuffmanTree/HuffmanTree.h)
+## 并查集
+- [并查集](https://github.com/shoukailiang/DataStructure/blob/zju/UnionFind/UnionFind.h)
 # 注意事项
 
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如

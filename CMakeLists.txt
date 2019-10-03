@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure Heap/MaxHeap/MaxHeap.cpp)
+add_executable(DataStructure  UnionFind/UnionFind.cpp UnionFind/UnionFind.h)
