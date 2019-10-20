@@ -1,6 +1,6 @@
 # DataStructure
 浙江大学数据结构
-# 线性表
+## 线性表
 - 顺序表示
     - [顺序表示](https://github.com/shoukailiang/DataStructure/blob/zju/List/SqList/SqList.h)
 - 链式表示
@@ -28,6 +28,10 @@
 - [哈夫曼树](https://github.com/shoukailiang/DataStructure/blob/zju/Heap/HuffmanTree/HuffmanTree.h)
 ## 并查集
 - [并查集](https://github.com/shoukailiang/DataStructure/blob/zju/UnionFind/UnionFind.h)
+## 散列
+- [用链表实现的哈希表](https://github.com/shoukailiang/DataStructure/blob/zju/HashTableByLink/HashTable.h)
+- [用数组实现的哈希表](https://github.com/shoukailiang/DataStructure/blob/zju/HashTableByArray/HashTable.h)
+
 # 注意事项
 
 在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
