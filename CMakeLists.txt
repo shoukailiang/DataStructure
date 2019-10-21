@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure  HashTableByLink/HashTable.cpp HashTableByLink/HashTable.h)
+add_executable(DataStructure  HashTableByLink/HashTable.cpp HashTableByLink/HashTable.h ZJU_Programming_assignments/电话聊天狂人.cpp)
