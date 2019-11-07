@@ -5,6 +5,8 @@
     - [顺序表示](https://github.com/shoukailiang/DataStructure/blob/zju/List/SqList/SqList.h)
 - 链式表示
     - [单链表](https://github.com/shoukailiang/DataStructure/blob/zju/List/LinkList/LinkList.h)
+- 静态链表
+    - [静态链表](https://github.com/shoukailiang/DataStructure/blob/zju/List/StaticList/StaticList.h)
 ## 栈
 - 顺序表示
     - [顺序栈](https://github.com/shoukailiang/DataStructure/blob/zju/Stack/SqStack/SqStack.h)
