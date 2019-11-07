@@ -31,12 +31,14 @@
 ## 散列
 - [用链表实现的哈希表](https://github.com/shoukailiang/DataStructure/blob/zju/HashTableByLink/HashTable.h)
 - [用数组实现的哈希表](https://github.com/shoukailiang/DataStructure/blob/zju/HashTableByArray/HashTable.h)
-
+# ZJU_Programming_assignments
+包括小白专场和一些作业
+# 课件
+课件文件夹包含浙大课程的代码和ppt(已合并)
 # 注意事项
+为了方便，实现都写在了.h里面。
 
-在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如
+如何运行：在clion中，需要运行哪个就在CmakeLists.txt 中添加进去如，中文cpp可能无法运行
 ```
 add_executable(DataStructure LinkList/LinkList.cpp LinkList/LinkList.h)
 ```
-# ZJU_Programming_assignments
-包括小白专场和一些作业
